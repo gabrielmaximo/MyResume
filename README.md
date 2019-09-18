@@ -23,8 +23,8 @@ Universidade Federal de Uberlândia **(UFU)** - Bacharel em Ciência da Computa�
 * Windows
 
 ### Front-end
-* HTML / CSS 
-* Java
+* HTML / CSS  
+* JavaScript
     * ReactJs
     * React Native
 
