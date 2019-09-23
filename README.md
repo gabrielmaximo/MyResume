@@ -6,7 +6,7 @@
 :envelope:  **maximo@ufu.br**
 
 ### Sobre Mim
-Meu nome é Luis Gabriel Maximo, mas meus amigos me chamam só de 'Maximo', sou apaixonado por Java, com grande interesse em Node, React e React Native! Nas horas vagas costumo jogar Magic e algumas outras coisinhas haha, mas minha maior diversão hoje, está sendo aprender as mais novas Stacks da área, então todo meu tempo livre eu dedico ao aprendizado.
+Meu nome é Luis Gabriel Maximo, mas meus amigos me chamam só de 'Maximo', sou apaixonado por JavaScript, com grande interesse em Node, React e React Native! Nas horas vagas costumo jogar Magic e algumas outras coisinhas haha, mas minha maior diversão hoje, está sendo aprender as mais novas Stacks da área, então todo meu tempo livre eu dedico ao aprendizado.
 
 ## Formação
 Universidade Federal de Uberlândia **(UFU)** - Bacharel em Ciência da Computação <br>
@@ -34,23 +34,25 @@ Universidade Federal de Uberlândia **(UFU)** - Bacharel em Ciência da Computa�
     * Adonis
 
 ### Linguagens de Programação que ja programei
-* Java.
-* C / C++.
-* Java.
-* Python.
+* JavaScript
+* C
+* Java
+* Python
 * Haskell
 * Prolog
 
 ### Banco de Dados
-* PostgreSQL.
+* PostgreSQL
+* MongoDB
+* Redis
 
 ### Sistemas de controle de versão
-* Git.
+* Git / GitHub.
 
 ## Projetos
 * [**Tindev**](https://github.com/gabrielmaximo/OmniStack-8.0)
 * [**Google Glass Web Site**](https://github.com/gabrielmaximo/HTML-CSS)
-* [**Minha primeira API Rest (nodeJs)**](https://github.com/gabrielmaximo/GoStack/tree/master/modules/module02)
+<!-- * [**Minha primeira API Rest (nodeJs)**]()-->
 ## O que eu estudo? Como estudo?
 * Atualmente sou aluno da [**RocketSeat**](https://rocketseat.com.br/), buscando conhecimento nas principais stacks de mercado **(NodeJs, React, React Native)**
 * Costumo estudar novas stacks e tecnologias por **hobbie**, adoro programar e sempre estou pesquisando a respeito ou lendo alguma documentação, sempre resolvo boa parte dos meus problemas com pesquisas, ou auxílio de algum dos meus amigos dev mais experiente, sou adepto a **metodolias ageis** como o **Scrum** e estou sempre trabalhando meu **networking**.
