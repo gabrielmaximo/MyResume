@@ -54,7 +54,7 @@ Universidade Federal de Uberlândia **(UFU)** - Bacharel em Ciência da Computa�
 * [**Google Glass Web Site**](https://github.com/gabrielmaximo/HTML-CSS)
 <!-- * [**Minha primeira API Rest (nodeJs)**]()-->
 ## O que eu estudo? Como estudo?
-* Atualmente sou aluno da [**RocketSeat**](https://rocketseat.com.br/), buscando conhecimento nas principais stacks de mercado **(NodeJs, React, React Native)**, e além disso estou graduando na Universidade Federal de Uberlândia no curso de Ciência da COmputação, aprendendo diversas técnicas de otmizaço de desempenho de software.
+* Atualmente sou aluno da [**RocketSeat**](https://rocketseat.com.br/), buscando conhecimento nas principais stacks de mercado **(NodeJs, React, React Native)**, e além disso estou graduando na Universidade Federal de Uberlândia no curso de Ciência da Computação, aprendendo diversas técnicas de otmizaço de desempenho de software.
 * Costumo estudar novas stacks e tecnologias por **hobbie**, adoro programar e sempre estou pesquisando a respeito ou lendo alguma documentação, sempre resolvo boa parte dos meus problemas com pesquisas, ou auxílio de algum dos meus amigos dev mais experiente, sou adepto a **metodolias ageis** como o **Scrum** e estou sempre trabalhando meu **networking**.
 
 ## Eventos como Participante
