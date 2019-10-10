@@ -54,8 +54,8 @@ Universidade Federal de Uberlândia **(UFU)** - Bacharel em Ciência da Computa�
 ## Projetos
 * [**Tindev**](https://github.com/gabrielmaximo/OmniStack-8.0): Projeto web simples, usando NodeJs e React baseado no tinder
 * [**AirCnC**](https://github.com/gabrielmaximo/AirCnC): Projeto web / Mobile simples, usando NodeJs e React e React Native baseado no AirBnB
-* [**MeetApp**](https://github.com/gabrielmaximo/MeetApp/tree/master/backend): API-REST mais complexa construida com NodeJs e usando banco de dados relacionais e nao relacionaism baseada no Meetup
-* [**GoBarber**](https://github.com/gabrielmaximo/GoBarber/tree/master/backend): API-REST mais complexa construida com NodeJs e usando banco de dados relacionais e nao relacionais, feita para agendamentos de horarios em salões de cabeleireiros e barbearias.
+* [**MeetApp**](https://github.com/gabrielmaximo/MeetApp/tree/master/backend): API-REST construída com NodeJs baseada no app do Meetup
+* [**GoBarber**](https://github.com/gabrielmaximo/GoBarber/tree/master/backend): API-REST (NodeJs), faz agendamentos de horarios para salões de cabeleireiros ou barbearias.
 
 ## O que eu estudo? Como estudo?
 * Atualmente sou aluno da [**RocketSeat**](https://rocketseat.com.br/), buscando conhecimento nas principais stacks de mercado **(NodeJs, React, React Native)**, e além disso possuo algumas skills de design para prototipaço de UI, UX e modelagem de banco de dados (DER - notação chen) estou graduando na Universidade Federal de Uberlândia no curso de Ciência da Computação, aprendendo diversas técnicas de otmizaço de desempenho de software.
