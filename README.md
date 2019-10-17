@@ -52,7 +52,7 @@ Universidade Federal de Uberlândia **(UFU)** - Bacharel em Ciência da Computa�
 
 ## Projetos
 * [**Tindev**](https://github.com/gabrielmaximo/OmniStack-8.0): Projeto web simples, usando NodeJs e React baseado no tinder
-* [**AirCnC**](https://github.com/gabrielmaximo/AirCnC): Projeto web / Mobile simples, usando NodeJs e React e React Native baseado no AirBnB
+* [**AirCnC**](https://github.com/gabrielmaximo/AirCnC): Projeto web / Mobile simples, usando NodeJs, React e React Native baseado no AirBnB
 * [**MeetApp**](https://github.com/gabrielmaximo/MeetApp/tree/master/backend): API-REST construída com NodeJs baseada no app do Meetup
 * [**GoBarber**](https://github.com/gabrielmaximo/GoBarber/tree/master/backend): API-REST (NodeJs), faz agendamentos de horarios para salões de cabeleireiros ou barbearias.
 
