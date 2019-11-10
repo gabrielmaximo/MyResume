@@ -57,7 +57,7 @@ Federal University of Uberlândia **(UFU)** - Bachelor degree in Computer Scienc
 * [**AirCnC**](https://github.com/gabrielmaximo/AirCnC): A simple web & mobile application, using NodeJs, React and React Native based on AirBnB.
 * [**MeetApp**](https://github.com/gabrielmaximo/MeetApp/tree/master/backend): API-REST constructed with NodeJs using express this application was based on Meetup
 * [**GoBarber**](https://github.com/gabrielmaximo/GoBarber/tree/master/backend): API-REST (NodeJs), makes schedules for hairdressing salons or barber shops.
-* [**LaunchDevs**](https://github.com/adamdias/launchdevs): RocketSeat team-developed web application for the purpose of securing all course knowledge the company offers
+* [**LaunchDevs**](https://github.com/adamdias/launchdevs): Open source web application developed in team with RocketSeat students, with the purpose of fixing all the knowledge of the course that the company offers.
 
 ## What do I study? How do I study?
 * I am currently a student of [**RocketSeat**](https://rocketseat.com.br/), seeking knowledge of the main market stacks ** (NodeJs, React, React Native) **, beside that I have some **design skills** for **UI prototyping, UX and database modeling (DER - chen notation)** I'm graduating in **Computer Science** at Federal University of Uberlândia, learning various techniques of optimization and software performance.
