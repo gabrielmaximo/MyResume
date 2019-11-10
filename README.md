@@ -1,75 +1,79 @@
 # Luis Gabriel Maximo
-**Estudando Desenvolvimento Web e Mobile com NodeJs, React e Reat Native.**
+**Studying development Web and Mobile with NodeJs, React and Reat Native.**
 
 :house:    Uberlândia - MG <br>
-:iphone:   **(16)** 99629 - 4064 <br>
+:iphone:   **+55(16)** 99629-4064 <br>
 :envelope:  **maximo@ufu.br**
 
-### Sobre Mim
-Meu nome é Luis Gabriel Maximo, mas meus amigos me chamam só de **'Maximo'**, sou apaixonado por **JavaScript**, com foco em **Node, React e React Native!** Nas horas vagas costumo jogar **Magic** e algumas outras coisinhas haha, mas minha maior diversão hoje, está sendo aprender as mais novas Stacks da área, então todo meu tempo livre eu dedico ao aprendizado, hoje posso dizer que domino grande parte dos conhecimentos de **NodeJs**.
+##### Hi recruiter :smiley:, I hope my story keeps you entertained until the end of the page, thanks for taking an interest in my resume :octocat:.
 
-## Formação
-Universidade Federal de Uberlândia **(UFU)** - Bacharel em Ciência da Computação <br>
-**5º período** - finalização em 2021 **->** [**disciplinas concluídas**](https://github.com/gabrielmaximo/UFU/blob/master/README.md)
+### About me
+My name is Luis Gabriel Maximo, but my friends call me only **'Maximo'**, i'm passionate about **JavaScript**, focusing in **Node, React and React Native!** in my spare time, I usually play a trading card game named **Magic** and some others things haha, but my biggest joy nodaways is learning the newest market stacks, so in my vacant time i also dedicate to learning and self improvement, today i can say i have a great knowledge of **NodeJs**.
 
-## Conhecimentos
+## Educational Background
+Federal University of Uberlândia **(UFU)** - Bachelor degree in Computer Science <br>
+**5th period** - completion in 2021 **->** [**completed subjects**](https://github.com/gabrielmaximo/UFU/blob/master/README.md)
 
-### Gerais
-* Lógica de Programação Avançada.
-* Inglês mais que suficiente para ler e entender.
-* Modelagem de base de dados (DER)
-* Bons conhecimentos com Bancos de Dados SQL e NoSQL
+## Knowledges
 
-### Sistemas Operacionais
+### ​General
+* Advanced Programming Logic.
+* Good english, able to read and comprehend.
+* Good knowledge with SQL and NoSQL Databases.
+* Database Modeling (DER).
+
+### ​Operational Systems
 * Linux
 * Windows
 
-### Front-end
+### ​Front-end
 * HTML / CSS  
 * JavaScript
     * ReactJs
     * React Native
 
-### Back-end
+### ​Back-end
 * NodeJs
     * Express
     * Adonis
 
-### Outras Linguagens de Programação que tenho conhecimento
+### ​Other Programming Languages
 * C / C++
 * Java
 * Python
 * Haskell
 * Prolog
 
-### Banco de Dados
+### ​Data Base
 * PostgreSQL
 * MongoDB
 * Redis
 
-### Sistemas de controle de versão
+### ​Version Control Systems
 * Git / GitHub.
 
-## Projetos
-* [**Tindev**](https://github.com/gabrielmaximo/OmniStack-8.0): Projeto web simples, usando NodeJs e React baseado no tinder
-* [**AirCnC**](https://github.com/gabrielmaximo/AirCnC): Projeto web / Mobile simples, usando NodeJs, React e React Native baseado no AirBnB
-* [**MeetApp**](https://github.com/gabrielmaximo/MeetApp/tree/master/backend): API-REST construída com NodeJs baseada no app do Meetup
-* [**GoBarber**](https://github.com/gabrielmaximo/GoBarber/tree/master/backend): API-REST (NodeJs), faz agendamentos de horarios para salões de cabeleireiros ou barbearias.
+## Projects
+* [**Tindev**](https://github.com/gabrielmaximo/OmniStack-8.0): A simple web application, using NodeJs & React based on tinder.
+* [**AirCnC**](https://github.com/gabrielmaximo/AirCnC): A simple web & mobile application, using NodeJs, React and React Native based on AirBnB.
+* [**MeetApp**](https://github.com/gabrielmaximo/MeetApp/tree/master/backend): API-REST constructed with NodeJs using express this application was based on Meetup
+* [**GoBarber**](https://github.com/gabrielmaximo/GoBarber/tree/master/backend): API-REST (NodeJs), makes schedules for hairdressing salons or barber shops.
+* [**LaunchDevs**](https://github.com/adamdias/launchdevs): RocketSeat team-developed web application for the purpose of securing all course knowledge the company offers
 
-## O que eu estudo? Como estudo?
-* Atualmente sou aluno da [**RocketSeat**](https://rocketseat.com.br/), buscando conhecimento nas principais stacks de mercado **(NodeJs, React, React Native)**, e além disso possuo algumas **skills** de design para **prototipaço de UI, UX e modelagem de banco de dados (DER - notação chen)** estou graduando na Universidade Federal de Uberlândia no curso de **Ciência da Computação**, aprendendo diversas técnicas de otmizaço de desempenho de software.
-* Costumo estudar novas stacks e tecnologias por **hobbie**, adoro programar e sempre estou pesquisando a respeito ou lendo alguma documentação, sempre resolvo boa parte dos meus problemas com pesquisas, ou auxílio de algum dev mais experiente que conheço, sou adepto a **metodolias ageis** como **Scrum** e estou sempre trabalhando meu **networking**.
+## What do I study? How do I study?
+* I am currently a student of [**RocketSeat**](https://rocketseat.com.br/), seeking knowledge of the main market stacks ** (NodeJs, React, React Native) **, beside that I have some **design skills** for **UI prototyping, UX and database modeling (DER - chen notation)** I'm graduating in **Computer Science** at Federal University of Uberlândia, learning various techniques of optimization and software performance.
+* I usually study new stacks and technologies by **hobbie**, I love to program and I am always researching or reading some documentation about it, I always solve a good part of my research problems or ask advice from a more experienced dev, I am adept of **Agile methodologies** like **Scrum** and I'm always improving my **social network**.
 
-## Eventos como Participante
+## Events as a participant
 * Uber Hub Code Club ( [**Web Site**](http://uberhubcode.com.br/) )
 * RocketSeat Experience ( [**Web Site**](https://rocketseat.com.br/experience) )
 * FACOM TechWeek - UFU ( [**Web Site**](http://www.techweek.facom.ufu.br/) )
 * Developer Circles From Facebook ( [**Web Site**](https://devcirclesuberlandia13.splashthat.com/?fbclid=IwAR3Jh0L5XglL5tIq_xKtFQX-ldVxoccRgJYYc6VErjjedCzq-CbYP6teCh0) )
 
-## Redes Sociais
+## Social midia
 *  [**Facebook**](https://www.facebook.com/luis.mxm)
 *  [**Linkedin**](https://www.linkedin.com/in/luis-gabriel-maximo-b451a0165/)
 
-## Informações Adicionais
-* Como eu disse no iníciou, eu sou um enstusiasta buscando novos conhecimentos, tudo que eu descrevi até aqui, são tecnologias que eu tenho contato no dia a dia e que ja tenho uma boa experiência, espero muito uma oportunidade de ter uma conversa 'face-to-face' com vocês para mostrar todo meu conhecimento, tenho muito a dizer e a apresentar, ah e obrigado por ler até aqui! 
+## Aditional information
+* As I said in the beginning, I am a enthusiast searching new knowledges. Everything described here so far is about how I have relate to technologies day by day, to show I have a good experience, I really expect an oportunity to have "face to face" conversation with you to show all my skills, I have a lot to say and present, oh and thanks for reading till here! 
 <br><br>
+
