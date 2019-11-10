@@ -55,9 +55,7 @@ Federal University of Uberlândia **(UFU)** - Bachelor degree in Computer Scienc
 ## Projects
 * [**Tindev**](https://github.com/gabrielmaximo/OmniStack-8.0): A simple web application, using NodeJs & React based on tinder.
 * [**AirCnC**](https://github.com/gabrielmaximo/AirCnC): A simple web & mobile application, using NodeJs, React and React Native based on AirBnB.
-* [**MeetAppI really expect an oportunity to have "face to face" conversation with you and to be able to present all my skills, oh and thanks for reading till here! 
-78
-<br><br>**](https://github.com/gabrielmaximo/MeetApp/tree/master/backend): API-REST constructed with NodeJs using express this application was based on Meetup
+* [**MeetAppI**](https://github.com/gabrielmaximo/MeetApp/tree/master/backend): API-REST constructed with NodeJs this application was based on Meetup
 * [**GoBarber**](https://github.com/gabrielmaximo/GoBarber/tree/master/backend): API-REST (NodeJs), makes schedules for hairdressing salons or barber shops.
 * [**LaunchDevs**](https://github.com/adamdias/launchdevs): Open source web application developed in team with RocketSeat students, with the purpose of fixing all the knowledge of the course that the company offers.
 
