@@ -56,6 +56,7 @@ Universidade Federal de Uberlândia **(UFU)** - Bacharel em Ciência da Computa�
 * [**AirCnC**](https://github.com/gabrielmaximo/AirCnC): Projeto web / Mobile simples, usando NodeJs, React e React Native baseado no AirBnB
 * [**MeetApp**](https://github.com/gabrielmaximo/MeetApp/tree/master/backend): API-REST construída com NodeJs baseada no app do Meetup
 * [**GoBarber**](https://github.com/gabrielmaximo/GoBarber/tree/master/backend): API-REST (NodeJs), faz agendamentos de horarios para salões de cabeleireiros ou barbearias.
+* [**LaunchDevs**](https://github.com/adamdias/launchdevs): Projeto OPen Source desenvolvido em equipe, junto com meus amigos de jornada no bootcamp GoStack da RocketSeat, projeto real desenvolvido para fixar os conhecimentos aprendidos ao longo do curso.
 
 ## O que eu estudo? Como estudo?
 * Atualmente sou aluno da [**RocketSeat**](https://rocketseat.com.br/), buscando conhecimento nas principais stacks de mercado **(NodeJs, React, React Native)**, e além disso possuo algumas **skills** de design para **prototipaço de UI, UX e modelagem de banco de dados (DER - notação chen)** estou graduando na Universidade Federal de Uberlândia no curso de **Ciência da Computação**, aprendendo diversas técnicas de otmizaço de desempenho de software.
