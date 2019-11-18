@@ -13,6 +13,13 @@ Meu nome é Luis Gabriel Maximo, mas meus amigos me chamam só de **'Maximo'**, 
 Universidade Federal de Uberlândia **(UFU)** - Bacharel em Ciência da Computação <br>
 **5º período** - finalização em 2021 **->** [**disciplinas concluídas**](https://github.com/gabrielmaximo/UFU/blob/master/README.md)
 
+## Experiência
+
+### CroSoften (consultoria)
+* Desenvolvedor Backend Junior com nodeJS
+* ##### descrição do cargo: 
+Durante o bootcamp da [**RocketSeat**](https://rocketseat.com.br/) ingressei como estagiario na CroSoften, mas em 3 semanas, fui efetivado antes mesmo de acabar o bootcamp, pois a empresa reconheceu que meus conhecimentos estavam em um nivel a frente do estágio, e com isso fui efetivado e promovido, atualmente continuo na empresa, porém buscando novas oportunidades la sou desenvolvedor backend com nodeJS, atuo na construção de web services RESTful, utilizando express e adonis, estou crescendo bastante e adquirindo uma experiência incrível em to pouco tempo, dentro da empresa não trabalhamos com squads e nem com scrum, ento eu sou o responsavel por toda a arquitura, organização, gerencia e codificação de toda a API, isso me da um conforto imenso e me ajuda a ter uma experiência de seniorides mais avançadas, porém para mim, trabalhar com scrum e squads é algo crucial, e isso me leva a procurar novas oportunidades em nodeJS.
+
 ## Conhecimentos
 
 ### Gerais
