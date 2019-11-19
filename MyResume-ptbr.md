@@ -67,7 +67,7 @@ Durante o bootcamp da [**RocketSeat**](https://rocketseat.com.br/) ingressei com
 
 ## O que eu estudo? Como estudo?
 * Atualmente sou aluno da [**RocketSeat**](https://rocketseat.com.br/), buscando conhecimento nas principais stacks de mercado **(NodeJs, React, React Native)**, e além disso possuo algumas **skills** de design para **prototipaço de UI, UX e modelagem de banco de dados (DER - notação chen)** estou graduando na Universidade Federal de Uberlândia no curso de **Ciência da Computação**, aprendendo diversas técnicas de otmizaço de desempenho de software.
-* Costumo estudar novas stacks e tecnologias por **hobbie**, adoro programar e sempre estou pesquisando a respeito ou lendo alguma documentação, sempre resolvo boa parte dos meus problemas com pesquisas, ou auxílio de algum dev mais experiente que conheço, sou adepto a **metodolias ageis** como **Scrum** e estou sempre trabalhando meu **networking**.
+* Costumo estudar novas stacks e tecnologias por **hobbie**, adoro programar e sempre estou pesquisando a respeito ou lendo alguma documentação, sempre resolvo boa parte dos meus problemas com pesquisas, ou auxílio de algum dev mais experiente que conheço, sou adepto a **metodolias ageis** como **Scrum** e estou sempre trabalhando meu **networking**, utilizo em meus projetos pessoas práticas de testes unitários (TDD).
 
 ## Eventos como Participante
 * Uber Hub Code Club ( [**Web Site**](http://uberhubcode.com.br/) )
