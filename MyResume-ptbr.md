@@ -27,6 +27,8 @@ Durante o bootcamp da [**RocketSeat**](https://rocketseat.com.br/) ingressei com
 * Inglês mais que suficiente para ler e entender.
 * Modelagem de base de dados (DER)
 * Bons conhecimentos com Bancos de Dados SQL e NoSQL
+* Metedologias ágeis (scrum)
+* Testes Unitários - TDD (Jester)
 
 ### Sistemas Operacionais
 * Linux
