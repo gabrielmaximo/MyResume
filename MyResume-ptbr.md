@@ -7,8 +7,7 @@
 :envelope:  **maximo@ufu.br**
 
 ### Sobre Mim
-Meu nome é Luis Gabriel Maximo, mas meus amigos me chamam só de **'Maximo'**, sou apaixonado por **JavaScript**, com foco em **Node, React e React Native!** Nas horas vagas costumo jogar **Magic** e algumas outras coisinhas haha, mas minha maior diversão hoje, está sendo aprender as mais novas Stacks da área, então todo meu tempo livre eu dedico ao aprendizado, hoje posso dizer que domino grande parte dos conhecimentos de **NodeJs**.
-
+Meu nome é Luis Gabriel Maximo, mas meus amigos me chamam só de **'Maximo'**, sou apaixonado por **JavaScript**, com foco em **Node, React e React Native!** Nas horas vagas costumo jogar **Magic** e outros games, mas minha maior diversão hoje, está sendo aprender as mais novas Stacks de mercado, então a maior parte do meu tempo livre eu dedico ao aprendizado.
 ## Formação
 Universidade Federal de Uberlândia **(UFU)** - Bacharel em Ciência da Computação <br>
 **5º período** - finalização em 2021 **->** [**disciplinas concluídas**](https://github.com/gabrielmaximo/UFU/blob/master/README.md)
@@ -16,9 +15,9 @@ Universidade Federal de Uberlândia **(UFU)** - Bacharel em Ciência da Computa�
 ## Experiência
 
 ### CroSoften (consultoria)
-* Desenvolvedor Backend Junior com nodeJS (setembro de 2019 - atual cargo)
+* Desenvolvedor Backend Junior com nodeJS (outubro de 2019 - atual cargo)
 * ##### descrição do cargo: 
-Durante o bootcamp da [**RocketSeat**](https://rocketseat.com.br/) ingressei como estagiario na CroSoften, mas em 3 semanas, fui efetivado antes mesmo de acabar o bootcamp, pois a empresa reconheceu que meus conhecimentos estavam em um nivel a frente do estágio, e com isso fui efetivado e promovido, atualmente continuo no cargo de junior, porém buscando novas oportunidades. Na empresa sou desenvolvedor backend com nodeJS, atuo na construção de web services RESTful, utilizando express ou adonis, estou crescendo bastante e adquirindo uma experiência incrível em to pouco tempo. Dentro da CroSoften não trabalho com squads e nem com scrum, então acabo sendo o responsavel por toda a arquitura, organização e estrutura do projeto, isso me da um conforto imenso e me ajuda a ter uma experiência de seniorides mais avançadas, porém para mim, trabalhar com scrum e squads é algo crucial, por isso que utilizo bastante essa metodolgia no desenvolvimentos dos meus prórpios projetos pessoais fora da empresa.
+Durante o aprendizado no bootcamp da [**RocketSeat**](https://rocketseat.com.br/) ingressei como estagiario na CroSoften, mas em 3 semanas, fui efetivado antes mesmo de acabar os estudos no curso intensivo da RocketSeat, pois a empresa reconheceu que meus conhecimentos estavam um nivel a frente do estágio, com isso fui efetivado e promovido. Atualmente continuo no cargo de junior. Na empresa sou desenvolvedor backend com nodeJS, atuo na construção de web services RESTful, utilizando express ou adonis, estou crescendo bastante e adquirindo uma experiência incrível em to pouco tempo. Dentro da CroSoften não trabalho com squads e nem com scrum, então acabo sendo o responsavel por toda a arquitura, organização e estrutura do projeto, isso me da um conforto imenso e me ajuda a ter uma experiência de seniorides mais avançadas, porém para mim, trabalhar com scrum e squads é algo crucial, por isso que utilizo bastante essa metodolgia no desenvolvimentos dos meus prórpios projetos pessoais fora da empresa.
 
 ## Conhecimentos
 
@@ -68,8 +67,8 @@ Durante o bootcamp da [**RocketSeat**](https://rocketseat.com.br/) ingressei com
 * [**LaunchDevs**](https://github.com/adamdias/launchdevs): Projeto OPen Source desenvolvido em equipe, junto com meus amigos de jornada no bootcamp GoStack da RocketSeat, projeto real desenvolvido para fixar os conhecimentos aprendidos ao longo do curso.
 
 ## O que eu estudo? Como estudo?
-* Atualmente sou aluno da [**RocketSeat**](https://rocketseat.com.br/), buscando conhecimento nas principais stacks de mercado **(NodeJs, React, React Native)**, e além disso possuo algumas **skills** de design para **prototipaço de UI, UX e modelagem de banco de dados (DER - notação chen)** estou graduando na Universidade Federal de Uberlândia no curso de **Ciência da Computação**, aprendendo diversas técnicas de otmizaço de desempenho de software.
-* Costumo estudar novas stacks e tecnologias por **hobbie**, adoro programar e sempre estou pesquisando a respeito ou lendo alguma documentação, sempre resolvo boa parte dos meus problemas com pesquisas, ou auxílio de algum dev mais experiente que conheço, sou adepto a **metodolias ageis** como **Scrum** e estou sempre trabalhando meu **networking**, utilizo em meus projetos pessoas práticas de testes unitários (TDD).
+* Atualmente sou aluno da [**RocketSeat**](https://rocketseat.com.br/), buscando conhecimento nas principais stacks de mercado **(NodeJs, React, React Native)**, e além disso possuo algumas **skills** de **QA** realizando **testes unitrios** utilizando **Jester**, um framework do facebook para **testes automatizados (TDD).** Também tenho conhecimentos em **modelagem de banco de dados (DER - notação chen)**. Atualmente estou graduando na Universidade Federal de Uberlândia no curso de **Ciência da Computação**, aprendendo diversas técnicas de **otmizaço de desempenho de software**.
+* Costumo estudar novas stacks e tecnologias por **hobbie**, adoro programar e sempre estou pesquisando a respeito ou lendo alguma documentação, sempre resolvo boa parte dos meus problemas com pesquisas, ou auxílio de algum dev mais experiente que conheço, sou adepto a **metodolias ageis** como **Scrum** e estou sempre trabalhando meu **networking**
 
 ## Eventos como Participante
 * Uber Hub Code Club ( [**Web Site**](http://uberhubcode.com.br/) )
