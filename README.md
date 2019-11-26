@@ -8,7 +8,7 @@
 ##### Hi recruiter :smiley:, I hope my story keeps you entertained until the end of the page, thanks for taking an interest in my resume :octocat:.
 
 ### About me
-My name is Luis Gabriel Maximo, but my friends call me only **'Maximo'**, i'm passionate about **JavaScript**, focusing in **Node, React and React Native!** in my spare time, I usually play a trading card game named **Magic** and some others things haha, but my biggest joy nodaways is learning the newest market stacks, so in my vacant time i also dedicate to learning and self improvement, today i can say i have a great knowledge of **NodeJs**.
+My name is Luis Gabriel Maximo, but my friends call me only **'Maximo'**, i'm passionate about **JavaScript**, focusing in **Node, React and React Native!** in my spare time, I usually play a trading card game named **Magic** and some others things, but my biggest joy nodaways is learning the newest market stacks, so in my vacant time i also dedicate to learning and self improvement, today i can say i have a great knowledge of **NodeJs**.
 
 ## Educational Background
 Federal University of Uberlândia **(UFU)** - Bachelor degree in Computer Science <br>
@@ -21,6 +21,8 @@ Federal University of Uberlândia **(UFU)** - Bachelor degree in Computer Scienc
 * Good english, able to read and comprehend.
 * Good knowledge with SQL and NoSQL Databases.
 * Database Modeling (DER).
+* Integration tests
+* Unit tests
 
 ### ​Operational Systems
 * Linux
@@ -53,10 +55,10 @@ Federal University of Uberlândia **(UFU)** - Bachelor degree in Computer Scienc
 * Git / GitHub.
 
 ## Projects
-* [**Tindev**](https://github.com/gabrielmaximo/OmniStack-8.0): A simple web application, using NodeJs & React based on tinder.
+* [**Tindev**](https://github.com/gabrielmaximo/Tindev): A simple web application, using NodeJs & React based on tinder.
 * [**AirCnC**](https://github.com/gabrielmaximo/AirCnC): A simple web & mobile application, using NodeJs, React and React Native based on AirBnB.
-* [**MeetAppI**](https://github.com/gabrielmaximo/MeetApp/tree/master/backend): API-REST constructed with NodeJs this application was based on Meetup
-* [**GoBarber**](https://github.com/gabrielmaximo/GoBarber/tree/master/backend): API-REST (NodeJs), makes schedules for hairdressing salons or barber shops.
+* [**MeetApp**](https://github.com/gabrielmaximo/MeetApp): API-REST constructed with NodeJs this application was based on Meetup
+* [**GoBarber**](https://github.com/gabrielmaximo/GoBarber): API-REST (NodeJs), makes schedules for hairdressing salons or barber shops.
 * [**LaunchDevs**](https://github.com/adamdias/launchdevs): Open source web application developed in team. The purpose of this application was to fix the knowledge of NodeJs, React and React Native through a real project.
 
 ## What do I study? How do I study?
