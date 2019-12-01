@@ -1,7 +1,7 @@
 # Luis Gabriel Maximo
 **Studying development web and mobile with NodeJs, React and Reat Native.**
 
-:house:    Uberlândia - MG <br>
+:house:    Brazil - Uberlândia - MG <br>
 :iphone:   **+55(16)** 99629-4064 <br>
 :envelope:  **maximo@ufu.br**
 
