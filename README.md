@@ -3,7 +3,7 @@
 
 :house:    Brazil - Uberlândia - MG <br>
 :iphone:   **+55 (16)** 99629-4064 <br>
-:envelope:  **maximo@ufu.br**
+:e-mail:  **maximo@ufu.br**
 
 ##### Hi recruiter :smiley:, I hope my story keeps you entertained until the end of the page, thanks for taking an interest in my resume :beginner:.
 
@@ -73,7 +73,7 @@ Federal University of Uberlândia **(UFU)** - Bachelor degree in Computer Scienc
 * FACOM TechWeek - UFU ( [**Web Site**](http://www.techweek.facom.ufu.br/) )
 * Developer Circles From Facebook ( [**Web Site**](https://devcirclesuberlandia13.splashthat.com/?fbclid=IwAR3Jh0L5XglL5tIq_xKtFQX-ldVxoccRgJYYc6VErjjedCzq-CbYP6teCh0) )
 
-## :iphone: Social midia
+## :speech_balloon: Social midia
 *  [**Facebook**](https://www.facebook.com/luis.mxm)
 *  [**Linkedin**](https://www.linkedin.com/in/luis-gabriel-maximo-b451a0165/)
 
