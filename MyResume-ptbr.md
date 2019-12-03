@@ -28,7 +28,7 @@ Durante o aprendizado no bootcamp da [**RocketSeat**](https://rocketseat.com.br/
 * Modelagem de base de dados (DER)
 * Bons conhecimentos com Bancos de Dados SQL e NoSQL
 * Metedologias ágeis (scrum)
-* Testes Unitários - TDD (Jester)
+* Testes Unitários - TDD (Jest)
 
 ### :penguin: Sistemas Operacionais
 * Linux
