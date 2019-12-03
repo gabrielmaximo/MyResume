@@ -80,4 +80,3 @@ Federal University of Uberlândia **(UFU)** - Bachelor degree in Computer Scienc
 ## :bell: Aditional information
 * As I said in the beginning, I am a enthusiast searching new knowledges. Everything described here so far is about how I relate to technologies in the day to day life, to show I have a good experience. I really expect an oportunity to have "face to face" conversation with you and to be able to present all my skills, oh and thanks for reading till here! 
 <br><br>
-
