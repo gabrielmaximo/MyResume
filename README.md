@@ -8,7 +8,7 @@
 ##### Hi recruiter :smiley:, I hope my story keeps you entertained until the end of the page, thanks for taking an interest in my resume :beginner:.
 
 ## :smile_cat: About me
-My name is Luis Gabriel Maximo, but my friends call me only **'Maximo'**, i'm passionate about **JavaScript**, focusing in **Node, React and React Native!** in my spare time, I usually play a trading card game named **Magic** and some others things, but my biggest joy nodaways is learning the newest market stacks, so in my vacant time i also dedicate to learning and self improvement, today i can say i have a great knowledge of **NodeJs**.
+My name is Luis Gabriel Maximo, but my friends call me only **'Maximo'**. I'm passionate about **JavaScript**, focusing in **Node, React and React Native!** in my spare time, I usually play a trading card game named **Magic** and some others things, but my biggest joy nodaways is learning the newest market stacks, so in my vacant time I also dedicate to learning and self improvement, today I can say I have a great knowledge of **NodeJs**.
 
 ## :mortar_board: Educational Background
 Federal University of Uberlândia **(UFU)** - Bachelor degree in Computer Science <br>
@@ -48,6 +48,7 @@ Federal University of Uberlândia **(UFU)** - Bachelor degree in Computer Scienc
 
 ### :floppy_disk: Data Base
 * PostgreSQL
+* MySQL
 * MongoDB
 * Redis
 
