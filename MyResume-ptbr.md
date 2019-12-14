@@ -54,6 +54,7 @@ Durante o aprendizado no bootcamp da [**RocketSeat**](https://rocketseat.com.br/
 
 ### :floppy_disk: Banco de Dados
 * PostgreSQL
+* MySQL
 * MongoDB
 * Redis
 
