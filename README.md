@@ -42,6 +42,7 @@ Federal University of Uberlândia **(UFU)** - Bachelor degree in Computer Scienc
 ### :muscle: Other Programming Languages
 * C / C++
 * Java
+* kotlin
 * Python
 * Haskell
 * Prolog
