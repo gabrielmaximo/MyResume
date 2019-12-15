@@ -49,6 +49,7 @@ Durante o aprendizado no bootcamp da [**RocketSeat**](https://rocketseat.com.br/
 * C / C++
 * Java
 * Python
+* Kotlin
 * Haskell
 * Prolog
 
