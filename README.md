@@ -62,21 +62,17 @@ Federal University of Uberlândia **(UFU)** - Bachelor degree in Computer Scienc
 * [**GoBarber**](https://github.com/gabrielmaximo/GoBarber): API-REST (NodeJs), makes schedules for hairdressing salons or barber shops.
 * [**LaunchDevs**](https://github.com/adamdias/launchdevs): Open source web application developed in team. The purpose of this application was to fix the knowledge of NodeJs, React and React Native through a real project.
 
-## :triangular_flag_on_post: What do I study? How do I study?
-* I am currently a student of [**RocketSeat**](https://rocketseat.com.br/), seeking knowledge of the main market stacks **(NodeJs, React, React Native)**, beside that I have some **skills** for database modeling (DER - chen notation). In my Computer Science degree, I learning techniques of **software optimization, performance, code patterns, clean code, ...**
-<br><br>
-* I usually study new stacks and technologies by **hobbie**, I love programming and I am always researching or reading some documentation about it, I always solve a good part of my research problems or ask advice from a more experienced dev, I am adept of **agile methodologies** like **Scrum** and I'm always improving my **social network**.
-
 ## :movie_camera: Events as a participant
 * Uber Hub Code Club ( [**Web Site**](http://uberhubcode.com.br/) )
 * RocketSeat Experience ( [**Web Site**](https://rocketseat.com.br/experience) )
 * FACOM TechWeek - UFU ( [**Web Site**](http://www.techweek.facom.ufu.br/) )
 * Developer Circles From Facebook ( [**Web Site**](https://devcirclesuberlandia13.splashthat.com/?fbclid=IwAR3Jh0L5XglL5tIq_xKtFQX-ldVxoccRgJYYc6VErjjedCzq-CbYP6teCh0) )
 
+## :triangular_flag_on_post: What do I study? How do I study?
+* I am currently a student of [**RocketSeat**](https://rocketseat.com.br/), seeking knowledge of the main market stacks **(NodeJs, React, React Native)**, beside that I have some **skills** for database modeling (DER - chen notation). In my Computer Science degree, I learning techniques of **software optimization, performance, code patterns, clean code, ...**
+<br><br>
+* I usually study new stacks and technologies by **hobbie**, I love programming and I am always researching or reading some documentation about it, I always solve a good part of my research problems or ask advice from a more experienced dev, I am adept of **agile methodologies** like **Scrum** and I'm always improving my **social network**.
+
 ## :speech_balloon: Social midia
 *  [**Facebook**](https://www.facebook.com/luis.mxm)
 *  [**Linkedin**](https://www.linkedin.com/in/luis-gabriel-maximo-b451a0165/)
-
-## :bell: Aditional information
-* As I said in the beginning, I am a enthusiast searching new knowledges. Everything described here so far is about how I relate to technologies in the day to day life, to show I have a good experience. I really expect an oportunity to have "face to face" conversation with you and to be able to present all my skills, oh and thanks for reading till here! 
-<br><br>
