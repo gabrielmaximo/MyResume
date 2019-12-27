@@ -21,8 +21,7 @@ Federal University of Uberlândia **(UFU)** - Bachelor degree in Computer Scienc
 * Good english, able to read and comprehend.
 * Good knowledge with SQL and NoSQL Databases.
 * Database Modeling (DER).
-* Integration tests
-* Unit tests
+* Unit & Integration tests.
 
 ### :penguin: Operational Systems
 * Linux
@@ -64,8 +63,7 @@ Federal University of Uberlândia **(UFU)** - Bachelor degree in Computer Scienc
 * [**LaunchDevs**](https://github.com/adamdias/launchdevs): Open source web application developed in team. The purpose of this application was to fix the knowledge of NodeJs, React and React Native through a real project.
 
 ## :triangular_flag_on_post: What do I study? How do I study?
-* I am currently a student of [**RocketSeat**](https://rocketseat.com.br/), seeking knowledge of the main market stacks **(NodeJs, React, React Native)**, beside that I have some **design skills** for **UI prototyping, UX and database modeling (DER - chen notation)** I'm graduating in **Computer Science** at Federal University of Uberlândia, learning various techniques of optimization and software performance.I really expect an oportunity to have "face to face" conversation with you and to be able to present all my skills, oh and thanks for reading till here! 
-78
+* I am currently a student of [**RocketSeat**](https://rocketseat.com.br/), seeking knowledge of the main market stacks **(NodeJs, React, React Native)**, beside that I have some **design skills** for **UI prototyping, UX and database modeling (DER - chen notation)** I'm my graduating in **Computer Science**, I learning techniques of software optimization (performance, code patterns, clean code, ...).
 <br><br>
 * I usually study new stacks and technologies by **hobbie**, I love programming and I am always researching or reading some documentation about it, I always solve a good part of my research problems or ask advice from a more experienced dev, I am adept of **agile methodologies** like **Scrum** and I'm always improving my **social network**.
 
