@@ -76,7 +76,7 @@ Ingressei como estagiario na CroSoften, mas em 3 semanas, fui promovido, pois a 
 * Developer Circles From Facebook ( [**Web Site**](https://devcirclesuberlandia13.splashthat.com/?fbclid=IwAR3Jh0L5XglL5tIq_xKtFQX-ldVxoccRgJYYc6VErjjedCzq-CbYP6teCh0) )
 
 ## :triangular_flag_on_post: O que eu estudo? Como estudo?
-* Atualmente sou aluno da [**RocketSeat**](https://rocketseat.com.br/), buscando conhecimento nas principais stacks de mercado **(NodeJs, React, React Native)**, e além disso possuo algumas **skills** de **QA** realizando **testes automatizados**. Também tenho conhecimentos em **modelagem de banco de dados (DER - notação chen)**. Atualmente estou graduando na Universidade Federal de Uberlândia no curso de **Ciência da Computação**, aprendendo diversas técnicas de **otmizaço, desempenho, padrões de código, clean code,.
+* Atualmente sou aluno da [**RocketSeat**](https://rocketseat.com.br/), buscando conhecimento nas principais stacks de mercado **(NodeJs, React, React Native)**, e além disso possuo algumas **skills** de **QA** realizando **testes automatizados**. Também tenho conhecimentos em **modelagem de banco de dados (DER - notação chen)**. Atualmente estou graduando na Universidade Federal de Uberlândia no curso de **Ciência da Computação**, aprendendo diversas técnicas de **otmização, desempenho, padrões de código, clean code,.
 ...**
 * Costumo estudar novas stacks e tecnologias por **hobby**, adoro programar e sempre estou pesquisando a respeito ou lendo alguma documentação, sempre resolvo parte dos meus problemas mais difíceis com pesquisas, ou auxílio de algum dev mais experiente que conheço, sou adepto a **metodolias ageis** como **Scrum** e estou sempre trabalhando meu **networking**.
 
