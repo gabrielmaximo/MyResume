@@ -3,7 +3,7 @@
 
 :house:    Brazil - Uberlândia - MG <br>
 :iphone:   **+55 (16)** 99629-4064 <br>
-:e-mail:  **maximo@ufu.br**
+:email:  **maximo@ufu.br**
 
 ##### Hi recruiter :smiley:, I hope my story keeps you entertained until the end of the page, thanks for taking an interest in my resume :beginner:.
 
