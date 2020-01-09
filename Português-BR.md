@@ -14,7 +14,7 @@ Universidade Federal de Uberlândia **(UFU)** - Bacharel em Ciência da Computa�
 
 ## :computer: Experiência
 
-### CroSoften (consultoria)
+### CroSoften
 * Desenvolvedor Backend Junior com **nodeJS** (setembro de 2019 - dezembro 2019)
 * **Descrição do cargo:**
   * Ingressei como estagiario na CroSoften, mas em 3 semanas, fui promovido, pois a empresa reconheceu que meus conhecimentos estavam um nivel a frente graças ao treinamento intensivo que fiz com a **RocketSeat**. Na empresa fui desenvolvedor backend com nodeJS, atuando na construção de web services RESTful, lá cresci bastante e adquiri uma experiência incrível em tão pouco tempo. Dentro da CroSoften não trabalhei com squads e nem com scrum, então fui responsável por toda a arquitura, organização e estrutura dos projetos, isso me me ajudou a ter experiência de seniorides mais avançadas. Entretanto, trabalhar com scrum e squads é algo crucial para mim, por isso utilizo bastante essa metodolgia no desenvolvimentos dos meus próprios projetos pessoais fora da empresa.
@@ -75,8 +75,7 @@ Universidade Federal de Uberlândia **(UFU)** - Bacharel em Ciência da Computa�
 * Developer Circles From Facebook ( [**Web Site**](https://devcirclesuberlandia13.splashthat.com/?fbclid=IwAR3Jh0L5XglL5tIq_xKtFQX-ldVxoccRgJYYc6VErjjedCzq-CbYP6teCh0) )
 
 ## :triangular_flag_on_post: O que eu estudo? Como estudo?
-* Atualmente sou aluno da [**RocketSeat**](https://rocketseat.com.br/), buscando conhecimento nas principais stacks de mercado **(NodeJs, React, React Native)**, e além disso possuo algumas **skills** de **QA** realizando **testes automatizados**. Também tenho conhecimentos em **modelagem de banco de dados (DER - notação chen)**. Atualmente estou graduando na Universidade Federal de Uberlândia no curso de **Ciência da Computação**, aprendendo diversas técnicas de **otmização, desempenho, padrões de código, clean code,.
-...**
+* Atualmente sou aluno da [**RocketSeat**](https://rocketseat.com.br/), buscando conhecimento nas principais stacks de mercado **(NodeJs, React, React Native)**, e além disso possuo algumas **skills** de **QA** realizando **testes automatizados**. Também tenho conhecimentos em **modelagem de banco de dados (DER - notação chen)**. Atualmente estou graduando na Universidade Federal de Uberlândia no curso de **Ciência da Computação**, aprendendo diversas técnicas de **otimização, desempenho, padrões de código, clean code, ...**
 * Costumo estudar novas stacks e tecnologias por **hobby**, adoro programar e sempre estou pesquisando a respeito ou lendo alguma documentação, sempre resolvo parte dos meus problemas mais difíceis com pesquisas, ou auxílio de algum dev mais experiente que conheço, sou adepto a **metodolias ageis** como **Scrum** e estou sempre trabalhando meu **networking**.
 
 ## :speech_balloon: Redes Sociais
