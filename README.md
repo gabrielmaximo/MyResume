@@ -14,6 +14,18 @@ My name is Luis Gabriel Maximo, but my friends call me only **'Maximo'**. I'm pa
 Federal University of Uberlândia **(UFU)** - Bachelor degree in Computer Science <br>
 **5th period** - completion in 2021 **->** [**completed subjects**](https://github.com/gabrielmaximo/UFU/blob/master/README.md)
 
+## :computer: Experiência
+
+### [Zup Innovation Technologies](https://www.zup.com.br/)
+* Trainee Backend Developer with **Kotlin (Spring Boot)** (January 2020 - Currently)
+* **description:**  
+   * In search of new challenges, I joined as an intern at Zup to learn and grow from more experienced developers. Here I work not only with the stack kotlin, but also with several backend stacks that bring me a mammoth maturity. In addition, I work with scrum methodologies, unit and integration testing, code review and more ...
+
+### [CroSoften](https://crosoften.com/)
+* Junior Backend Developer with **nodeJS** (September 2019 - December 2019)
+* **description:**  
+   * I worked as a backend developer, building REST APIs using javascript (node.js) with the express.js and adonis.js frameworks. In this role, I developed all the application code by myself and was also responsible for building all design standards, architecture (MVC), and database models.
+
 ## :books: Knowledges
 
 ### :pushpin: General
@@ -39,7 +51,7 @@ Federal University of Uberlândia **(UFU)** - Bachelor degree in Computer Scienc
     * Adonis
 
 ### :muscle: Other Programming Languages
-* C / C++
+* C / C++ 
 * Java
 * kotlin
 * Python
@@ -56,11 +68,11 @@ Federal University of Uberlândia **(UFU)** - Bachelor degree in Computer Scienc
 * Git / GitHub.
 
 ## :open_file_folder: Projects
+* [**LaunchDevs**](https://github.com/adamdias/launchdevs): Open source web application developed in team. The purpose of this application was to fix the knowledge of NodeJs, React and React Native through a real project.
 * [**Tindev**](https://github.com/gabrielmaximo/Tindev): A simple web application, using NodeJs & React based on tinder.
 * [**AirCnC**](https://github.com/gabrielmaximo/AirCnC): A simple web & mobile application, using NodeJs, React and React Native based on AirBnB.
 * [**MeetApp**](https://github.com/gabrielmaximo/MeetApp): API-REST constructed with NodeJs this application was based on Meetup
 * [**GoBarber**](https://github.com/gabrielmaximo/GoBarber): API-REST (NodeJs), makes schedules for hairdressing salons or barber shops.
-* [**LaunchDevs**](https://github.com/adamdias/launchdevs): Open source web application developed in team. The purpose of this application was to fix the knowledge of NodeJs, React and React Native through a real project.
 
 ## :movie_camera: Events as a participant
 * Uber Hub Code Club ( [**Web Site**](http://uberhubcode.com.br/) )
@@ -71,7 +83,7 @@ Federal University of Uberlândia **(UFU)** - Bachelor degree in Computer Scienc
 ## :triangular_flag_on_post: What do I study? How do I study?
 * I am currently a student of [**RocketSeat**](https://rocketseat.com.br/), seeking knowledge of the main market stacks **(NodeJs, React, React Native)**, beside that I have some **skills** for database modeling (DER - chen notation). In my Computer Science degree, I learning techniques of **software optimization, performance, code patterns, clean code, ...**
 <br><br>
-* I usually study new stacks and technologies by **hobbie**, I love programming and I am always researching or reading some documentation about it, I always solve a good part of my research problems or ask advice from a more experienced dev, I am adept of **agile methodologies** like **Scrum** and I'm always improving my **social network**.
+* I usually study new stacks and technologies, I am always researching or reading some documentation, I solve most of my daily problems with researches, I'm adept at **agile methodologies** like **Scrum**.
 
 ## :speech_balloon: Social midia
 *  [**Facebook**](https://www.facebook.com/luis.mxm)
