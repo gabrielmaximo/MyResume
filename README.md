@@ -17,14 +17,14 @@ Federal University of Uberlândia **(UFU)** - Bachelor degree in Computer Scienc
 ## :computer: Experience
 
 ### [Zup Innovation Technologies](https://www.zup.com.br/)
-* Trainee Backend Developer with **Kotlin (Spring Boot)** (January 2020 - Currently)
+* Trainee Backend Developer with **Kotlin** (January 2020 - Currently)
 * **description:**  
-   * In search of new challenges, I joined as an intern at Zup to learn and grow from more experienced developers. Here I work not only with the stack kotlin, but also with several backend stacks that bring me a mammoth maturity. In addition, I work with scrum methodologies, unit and integration testing, code review and more ...
+   * In search of new challenges, I joined as an intern at Zup to learn and grow from more experienced developers. Here I work not only with the kotlin language, but also with several backend stacks that bring me a mammoth maturity. In addition, I work with scrum methodologies, unit and integration testing, code review and more ...
 
 ### [CroSoften](https://crosoften.com/)
-* Junior Backend Developer with **nodeJS** (September 2019 - December 2019)
+* Junior Backend Developer with **JavaScript** (September 2019 - December 2019)
 * **description:**  
-   * I worked as a backend developer, building REST APIs using javascript (node.js) with the express.js and adonis.js frameworks. In this role, I developed all the application code by myself and was also responsible for building all design standards, architecture (MVC), and database models.
+   * I worked as a backend developer, building REST APIs using javascript (Node.js) with the express.js and adonis.js frameworks. In this role, I developed all the application code by myself and was also responsible for building all design standards, architecture (MVC), and database models.
 
 ## :books: Knowledges
 
