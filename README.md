@@ -14,7 +14,7 @@ My name is Luis Gabriel Maximo, but my friends call me only **'Maximo'**. I'm pa
 Federal University of Uberlândia **(UFU)** - Bachelor degree in Computer Science <br>
 **5th period** - completion in 2021 **->** [**completed subjects**](https://github.com/gabrielmaximo/UFU/blob/master/README.md)
 
-## :computer: Experiência
+## :computer: Experience
 
 ### [Zup Innovation Technologies](https://www.zup.com.br/)
 * Trainee Backend Developer with **Kotlin (Spring Boot)** (January 2020 - Currently)
