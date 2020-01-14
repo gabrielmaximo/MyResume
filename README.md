@@ -34,6 +34,7 @@ Federal University of Uberlândia **(UFU)** - Bachelor degree in Computer Scienc
 * Good knowledge with SQL and NoSQL Databases.
 * Database Modeling (DER).
 * Unit & Integration tests.
+* Docker & Docker Compose
 
 ### :penguin: Operational Systems
 * Linux
