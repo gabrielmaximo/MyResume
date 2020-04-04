@@ -40,6 +40,8 @@ Universidade Federal de Uberlândia **(UFU)** - Bacharel em Ciência da Computa�
     * React Native
 
 ### :fire: Back-end
+* Java / Kotlin
+ * SpringBoot
 * NodeJs
     * Express
     * Adonis
