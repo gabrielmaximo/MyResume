@@ -47,6 +47,8 @@ Federal University of Uberlândia **(UFU)** - Bachelor degree in Computer Scienc
     * React Native
 
 ### :fire: Back-end
+* Java / Kotlin
+  * SpringBoot
 * NodeJs
     * Express
     * Adonis
