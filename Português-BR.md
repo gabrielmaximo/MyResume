@@ -41,7 +41,7 @@ Universidade Federal de Uberlândia **(UFU)** - Bacharel em Ciência da Computa�
 
 ### :fire: Back-end
 * Java / Kotlin
- * SpringBoot
+    * SpringBoot
 * NodeJs
     * Express
     * Adonis
