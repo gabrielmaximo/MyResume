@@ -90,4 +90,4 @@ Federal University of Uberlândia **(UFU)** - Bachelor degree in Computer Scienc
 
 ## :speech_balloon: Social midia
 *  [**Facebook**](https://www.facebook.com/luis.mxm)
-*  [**Linkedin**](https://www.linkedin.com/in/luis-gabriel-maximo-b451a0165/)
+*  [**Linkedin**](https://www.linkedin.com/in/maximogabriel)
