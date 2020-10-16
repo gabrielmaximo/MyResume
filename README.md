@@ -17,14 +17,14 @@ Federal University of Uberlândia **(UFU)** - Bachelor degree in Computer Scienc
 ## :computer: Experience
 
 ### [Zup Innovation Technologies](https://www.zup.com.br/)
-* Trainee Backend Developer with **Kotlin** (January 2020 - Currently)
+* Backend Developer with **Kotlin** (January 2020 - Currently)
 * **description:**  
-   * In search of new challenges, I joined as an intern at Zup to learn and grow from more experienced developers. Here I work not only with the kotlin language, but also with several backend stacks that bring me a mammoth maturity. In addition, I work with scrum methodologies, unit and integration testing, code review and more ...
+   * In search of new challenges, I joined as an intern at Zup to learn and grow from more experienced developers. After 6 months I was promoted and today I work as a junior backend developer under an open source framework called as beagle. Here I work not only with the kotlin language, but also with several backend stacks that bring me a mammoth maturity. In addition, I work with scrum methodologies, unit and integration testing, code review and more ...
 
 ### [CroSoften](https://crosoften.com/)
 * Junior Backend Developer with **JavaScript** (September 2019 - December 2019)
 * **description:**  
-   * I worked as a backend developer, building REST APIs using javascript (Node.js) with the express.js and adonis.js frameworks. In this role, I developed all the application code by myself and was also responsible for building all design standards, architecture (MVC), and database models.
+   * I worked as a backend developer, building REST APIs using node.js with the express.js and adonis.js frameworks. In this role, I developed all the application code by myself and was also responsible for building all design standards, architecture (MVC), and database models.
 
 ## :books: Knowledges
 
@@ -71,6 +71,7 @@ Federal University of Uberlândia **(UFU)** - Bachelor degree in Computer Scienc
 * Git / GitHub.
 
 ## :open_file_folder: Projects
+* [**Beagle**](https://github.com/ZupIT/beagle): Open source framework that uses the concepts of server driven UI.
 * [**LaunchDevs**](https://github.com/adamdias/launchdevs): Open source web application developed in team. The purpose of this application was to fix the knowledge of NodeJs, React and React Native through a real project.
 * [**Tindev**](https://github.com/gabrielmaximo/Tindev): A simple web application, using NodeJs & React based on tinder.
 * [**AirCnC**](https://github.com/gabrielmaximo/AirCnC): A simple web & mobile application, using NodeJs, React and React Native based on AirBnB.
