@@ -34,6 +34,8 @@ Federal University of Uberlândia **(UFU)** - Bachelor degree in Computer Scienc
 * Database Modeling (DER)
 * Unit & Integration tests
 * Cloud (AWS)
+* SOLID Patterns
+* Clean Code
 
 ### :fire: Back-end
 * Java / Kotlin
