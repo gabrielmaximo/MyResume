@@ -13,6 +13,9 @@ Universidade Federal de Uberlândia **(UFU)** - Bacharel em Ciência da Computa�
 
 ## :computer: Experiência
 
+### [Zup Innovation Technologies](https://www.zup.com.br/)
+* Backend Developer com **Kotlin** e **Spring Boot** (January 2020 - atual)
+
 ### CroSoften
 * Desenvolvedor Backend Junior com **nodeJS** (setembro de 2019 - dezembro 2019)
 * **Descrição do cargo:**
@@ -41,10 +44,10 @@ Universidade Federal de Uberlândia **(UFU)** - Bacharel em Ciência da Computa�
 * HTML / CSS  
 * JavaScript / Typescript
     * ReactJs
+    * React Native
 
 ### :muscle: Outras Linguagens de Programação que tenho conhecimento
 * C / C++
-* Java
 * Python
 * Haskell
 * Prolog
