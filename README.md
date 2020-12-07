@@ -6,7 +6,7 @@
 ##### Hi recruiter :smiley:, I hope my story keeps you entertained until the end of the page, thanks for taking an interest in my resume :beginner:.
 
 ## :bell: About me
-My name is Luis Gabriel Maximo, but my friends call me only **"Maximo"**. I'm passionate about software development, especially **backend**, always looking to learn new market technologies. I am methodical in terms of develpment and code organization, so I always try to maintain maximum professionalism, but of course, whenever possible, I like to give that relaxed time to the team to ease the mind 😄.In my spare time, I usually play several games with friends and also watch movies and series, I love the Star Wars saga, especially the first trilogy 🎬.
+My name is Luis Gabriel Máximo, but my friends just call me **"Máximo"**. I am passionate about software development, mainly **backend**, always looking to learn new market technologies. I'm methodical in terms of code development and organization, so I always try to maintain maximum professionalism, but of course, whenever possible, I like to relax with the team to have a nice working environment. In my spare time, usually playing several games with friends and also watching movies and series, I love the Star Wars saga, especially the first trilogy 🎬.
 
 ## :mortar_board: Educational Background
 Federal University of Uberlândia **(UFU)** - Bachelor degree in Computer Science <br>
