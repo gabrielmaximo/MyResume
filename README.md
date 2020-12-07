@@ -42,7 +42,7 @@ Federal University of Uberlândia **(UFU)** - Bachelor degree in Computer Scienc
 * NodeJs
     * Express
     * Adonis
- * Kubernets
+ * Kubernets (Begginer level)
  * Docker / Docker-Compose
  * AWS Cloud (Beginner level)
 
