@@ -1,5 +1,4 @@
 # Luis Gabriel Maximo
-**Studying development web and mobile with NodeJs, React and Reat Native.**
 
 :house:    Brazil - Uberlândia - MG <br>
 :email:  **maximo@ufu.br**
