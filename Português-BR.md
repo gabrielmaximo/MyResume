@@ -33,7 +33,7 @@ Universidade Federal de Uberlândia **(UFU)** - Bacharel em Ciência da Computa�
 * Testes Unitários e de Integração (TDD)
 * Desenvolvimento de API (REST)
 * Cloud (AWS)
-* SOLID Patterns
+* SOLID Principles
 * Clean Code
 
 ### :fire: Back-end
