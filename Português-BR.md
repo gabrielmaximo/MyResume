@@ -75,6 +75,7 @@ Universidade Federal de Uberlândia **(UFU)** - Bacharel em Ciência da Computa�
 * RocketSeat Experience ( [**Web Site**](https://rocketseat.com.br/experience) )
 * FACOM TechWeek - UFU ( [**Web Site**](http://www.techweek.facom.ufu.br/) )
 * Developer Circles From Facebook ( [**Web Site**](https://devcirclesuberlandia13.splashthat.com/?fbclid=IwAR3Jh0L5XglL5tIq_xKtFQX-ldVxoccRgJYYc6VErjjedCzq-CbYP6teCh0) )
+* Google Developers Group ( [**Web Site**](https://gdg.community.dev/gdg-uberlandia/) )
 
 ## :triangular_flag_on_post: O que eu estudo? Como estudo?
 * Atualmente sou aluno da [**RocketSeat**](https://rocketseat.com.br/), buscando conhecimento nas principais stacks de mercado **(NodeJs, React, React Native)**, e além disso possuo algumas **skills** de **QA** realizando **testes automatizados**. Também tenho conhecimentos em **modelagem de banco de dados (DER - notação chen)**. Atualmente estou graduando na Universidade Federal de Uberlândia no curso de **Ciência da Computação**, aprendendo diversas técnicas de **otimização, desempenho, padrões de código, clean code, ...**
