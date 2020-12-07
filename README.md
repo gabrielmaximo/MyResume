@@ -83,6 +83,7 @@ Federal University of Uberlândia **(UFU)** - Bachelor degree in Computer Scienc
 * RocketSeat Experience ( [**Web Site**](https://rocketseat.com.br/experience) )
 * FACOM TechWeek - UFU ( [**Web Site**](http://www.techweek.facom.ufu.br/) )
 * Developer Circles From Facebook ( [**Web Site**](https://devcirclesuberlandia13.splashthat.com/?fbclid=IwAR3Jh0L5XglL5tIq_xKtFQX-ldVxoccRgJYYc6VErjjedCzq-CbYP6teCh0) )
+* Google Developers Group - GDG ( [**Web Site**](https://gdg.community.dev/gdg-uberlandia/) )
 
 ## :triangular_flag_on_post: What do I study? How do I study?
 * I am currently a student of [**RocketSeat**](https://rocketseat.com.br/), seeking knowledge of the main market stacks **(NodeJs, React, React Native)**, beside that I have some **skills** for database modeling (DER - chen notation). In my Computer Science degree, I learning techniques of **software optimization, performance, code patterns, clean code, ...**
