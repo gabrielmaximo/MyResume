@@ -2,13 +2,12 @@
 **Studying development web and mobile with NodeJs, React and Reat Native.**
 
 :house:    Brazil - Uberlândia - MG <br>
-:iphone:   **+55 (16)** 99629-4064 <br>
 :email:  **maximo@ufu.br**
 
 ##### Hi recruiter :smiley:, I hope my story keeps you entertained until the end of the page, thanks for taking an interest in my resume :beginner:.
 
 ## :bell: About me
-My name is Luis Gabriel Maximo, but my friends call me only **'Maximo'**. I'm passionate about **JavaScript**, focusing in **Node, React and React Native!** in my spare time, I usually play a trading card game named **Magic** and some others things, but my biggest joy nowadays is learning the newest market stacks, so in my vacant time I also dedicate to learning and self improvement. Today I have a great knowledge of **NodeJs**.
+My name is Luis Gabriel Maximo, but my friends call me only **"Maximo"**. I'm passionate about software development, especially **backend**, always looking to learn new market technologies. I am methodical in terms of develpment and organization, so I always try to maintain maximum professionalism, but of course, whenever possible, I like to give that relaxed time to the team to ease the mind 😄.In my spare time, I usually play several games with friends and also watch movies and series, I love the Star Wars saga, especially the first trilogy 🎬.
 
 ## :mortar_board: Educational Background
 Federal University of Uberlândia **(UFU)** - Bachelor degree in Computer Science <br>
@@ -18,33 +17,24 @@ Federal University of Uberlândia **(UFU)** - Bachelor degree in Computer Scienc
 
 ### [Zup Innovation Technologies](https://www.zup.com.br/)
 * Backend Developer with **Kotlin** (January 2020 - Currently)
-* **description:**  
-   * In search of new challenges, I joined as an intern at Zup to learn and grow from more experienced developers. After 6 months I was promoted and today I work as a junior backend developer under an open source framework called as beagle. Here I work not only with the kotlin language, but also with several backend stacks that bring me a mammoth maturity. In addition, I work with scrum methodologies, unit and integration testing, code review and more ...
+* **descrição:**
+    * Em busca de novos desafios, entrei como estagiário na Zup para aprender e crescer com desenvolvedores mais experientes. Após 6 meses, fui promovido e hoje trabalho como desenvolvedor backend nivel júnior em um framework **open source** chamado beagle. Aqui trabalho não só com a linguagem kotlin, mas também com várias tecnologias que me trazem uma maturidade gigantesca. Além disso, trabalho com metodologias ageis (**scrum**), testes unitários, testes integrados, cloud, CI/CD e muito mais...
 
 ### [CroSoften](https://crosoften.com/)
 * Junior Backend Developer with **JavaScript** (September 2019 - December 2019)
 * **description:**  
-   * I worked as a backend developer, building REST APIs using node.js with the express.js and adonis.js frameworks. In this role, I developed all the application code by myself and was also responsible for building all design standards, architecture (MVC), and database models.
+   * I worked as a backend developer, building REST APIs using node.js with the express.js and adonis.js frameworks. In this role, I developed all the application code by myself and was also responsible for building all design standards, architecture, and database models.
 
 ## :books: Knowledges
 
 ### :pushpin: General
-* Advanced Programming Logic.
-* Good english, able to read and comprehend.
-* Good knowledge with SQL and NoSQL Databases.
-* Database Modeling (DER).
-* Unit & Integration tests.
-* Docker & Docker Compose
-
-### :penguin: Operational Systems
-* Linux
-* Windows
-
-### :ocean: Front-end
-* HTML / CSS  
-* JavaScript
-    * ReactJs
-    * React Native
+* Advanced Programming Logic
+* Good english, able to read and comprehend
+* Good knowledge with SQL and NoSQL Databases
+* API (REST)
+* Database Modeling (DER)
+* Unit & Integration tests
+* Cloud (AWS)
 
 ### :fire: Back-end
 * Java / Kotlin
@@ -52,11 +42,18 @@ Federal University of Uberlândia **(UFU)** - Bachelor degree in Computer Scienc
 * NodeJs
     * Express
     * Adonis
+ * Kubernets
+ * Docker / Docker-Compose
+ * AWS Cloud (Beginner level)
+
+### :ocean: Front-end
+* HTML / CSS  
+* JavaScript / Typescript
+    * ReactJs
+    * React Native
 
 ### :muscle: Other Programming Languages
 * C / C++ 
-* Java
-* kotlin
 * Python
 * Haskell
 * Prolog
@@ -68,7 +65,7 @@ Federal University of Uberlândia **(UFU)** - Bachelor degree in Computer Scienc
 * Redis
 
 ### :octocat: Version Control Systems
-* Git / GitHub.
+* Git / GitHub
 
 ## :open_file_folder: Projects
 * [**Beagle**](https://github.com/ZupIT/beagle): Open source framework that uses the concepts of server driven UI.
@@ -77,6 +74,7 @@ Federal University of Uberlândia **(UFU)** - Bachelor degree in Computer Scienc
 * [**AirCnC**](https://github.com/gabrielmaximo/AirCnC): A simple web & mobile application, using NodeJs, React and React Native based on AirBnB.
 * [**MeetApp**](https://github.com/gabrielmaximo/MeetApp): API-REST constructed with NodeJs this application was based on Meetup
 * [**GoBarber**](https://github.com/gabrielmaximo/GoBarber): API-REST (NodeJs), makes schedules for hairdressing salons or barber shops.
+* [**And more...**](https://github.com/gabrielmaximo?tab=repositories)
 
 ## :movie_camera: Events as a participant
 * Uber Hub Code Club ( [**Web Site**](http://uberhubcode.com.br/) )
@@ -84,11 +82,6 @@ Federal University of Uberlândia **(UFU)** - Bachelor degree in Computer Scienc
 * FACOM TechWeek - UFU ( [**Web Site**](http://www.techweek.facom.ufu.br/) )
 * Developer Circles From Facebook ( [**Web Site**](https://devcirclesuberlandia13.splashthat.com/?fbclid=IwAR3Jh0L5XglL5tIq_xKtFQX-ldVxoccRgJYYc6VErjjedCzq-CbYP6teCh0) )
 * Google Developers Group - GDG ( [**Web Site**](https://gdg.community.dev/gdg-uberlandia/) )
-
-## :triangular_flag_on_post: What do I study? How do I study?
-* I am currently a student of [**RocketSeat**](https://rocketseat.com.br/), seeking knowledge of the main market stacks **(NodeJs, React, React Native)**, beside that I have some **skills** for database modeling (DER - chen notation). In my Computer Science degree, I learning techniques of **software optimization, performance, code patterns, clean code, ...**
-<br><br>
-* I usually study new stacks and technologies, I am always researching or reading some documentation, I solve most of my daily problems with researches, I'm adept at **agile methodologies** like **Scrum**.
 
 ## :speech_balloon: Social midia
 *  [**Facebook**](https://www.facebook.com/luis.mxm)
