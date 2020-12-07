@@ -15,6 +15,8 @@ Universidade Federal de Uberlândia **(UFU)** - Bacharel em Ciência da Computa�
 
 ### [Zup Innovation Technologies](https://www.zup.com.br/)
 * Backend Developer com **Kotlin** e **Spring Boot** (January 2020 - atual)
+* **descrição:**
+    * Em busca de novos desafios, entrei como estagiário na Zup para aprender e crescer com desenvolvedores mais experientes. Após 6 meses, fui promovido e hoje trabalho como desenvolvedor backend nivel júnior em um framework **open source** chamado beagle. Aqui trabalho não só com a linguagem kotlin, mas também com várias tecnologias que me trazem uma maturidade gigantesca. Além disso, trabalho com metodologias ageis (**scrum**), testes unitários, testes integrados, cloud, CI/CD e muito mais...
 
 ### CroSoften
 * Desenvolvedor Backend Junior com **nodeJS** (setembro de 2019 - dezembro 2019)
