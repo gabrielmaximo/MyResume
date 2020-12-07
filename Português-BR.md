@@ -41,6 +41,9 @@ Universidade Federal de Uberlândia **(UFU)** - Bacharel em Ciência da Computa�
 * NodeJs
     * Express
     * Adonis
+ * Kubernets (Begginer level)
+ * Docker / Docker-Compose
+ * AWS Cloud (Beginner level)
 
 ### :ocean: Front-end
 * HTML / CSS  
