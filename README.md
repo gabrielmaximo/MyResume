@@ -10,7 +10,7 @@ My name is Luis Gabriel Máximo, but my friends just call me **"Máximo"**. I am
 
 ## :mortar_board: Educational Background
 Federal University of Uberlândia **(UFU)** - Bachelor degree in Computer Science <br>
-**5th period** - completion in 2021 **->** [**completed subjects**](https://github.com/gabrielmaximo/UFU/blob/master/README.md)
+**5th period** - completion in 2022 **->** [**completed subjects**](https://github.com/gabrielmaximo/UFU/blob/master/README.md)
 
 ## :computer: Experience
 
